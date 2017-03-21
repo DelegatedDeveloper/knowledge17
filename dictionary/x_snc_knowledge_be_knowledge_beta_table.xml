@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Knowledge beta Table" max_length="40" name="x_snc_knowledge_be_knowledge_beta_table" type="collection"/>
+</database>

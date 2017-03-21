@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Knowledge beta</name>
+        <order/>
+        <roles>x_snc_knowledge_be.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Broc.Oppler@snc</sys_created_by>
+        <sys_created_on>2017-03-21 22:31:43</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76e74893132d36000c22b8b12244b0e1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Knowledge beta</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Knowledge beta" source="x_snc_knowledge_be">3ee78093132d36000c22b8b12244b033</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Knowledge beta">3ee78093132d36000c22b8b12244b033</sys_scope>
+        <sys_update_name>sys_app_application_76e74893132d36000c22b8b12244b0e1</sys_update_name>
+        <sys_updated_by>Broc.Oppler@snc</sys_updated_by>
+        <sys_updated_on>2017-03-21 22:31:44</sys_updated_on>
+        <title>Knowledge beta</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
